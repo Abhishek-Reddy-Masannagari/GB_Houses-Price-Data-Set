@@ -1,1 +1,2 @@
 # GB_Houses-Price-Data-Set
+Performing exploratory data analysis, extraction and visualisation of various Houses for estimation of prices based on sq.feet area, bedrooms, washrooms, number of floors, zipcodes etc.Comparision of Area and prices of rooms based on number of bedrooms by visualising the bar plot on X and Y axis.Prediction and calculation of accuracy scores of prices of various houses by training X-axis and Y-axis data to the various regression algorithms.  
